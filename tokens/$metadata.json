@@ -1,5 +1,8 @@
 {
   "tokenSetOrder": [
-    "Global"
+    "global",
+    "Tonal Palettes/Mode 1",
+    "Theme/Dark",
+    "Theme/Light"
   ]
 }
