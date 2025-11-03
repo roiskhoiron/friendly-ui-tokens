@@ -1,0 +1,102 @@
+{
+  "Global": {
+    "Rounded-SM": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "Rounded-MD": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "Rounded-LG": {
+      "value": "12",
+      "type": "borderRadius"
+    },
+    "Rounded-XL": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "Rounded-full": {
+      "value": "999",
+      "type": "borderRadius"
+    },
+    "Size-nudge": {
+      "value": "8",
+      "type": "sizing"
+    },
+    "Size-0,25": {
+      "value": "{Size-nudge}/4",
+      "type": "sizing"
+    },
+    "Size-0,5": {
+      "value": "{Size-nudge}/2",
+      "type": "sizing"
+    },
+    "Size-1": {
+      "value": "{Size-nudge}*1",
+      "type": "sizing"
+    },
+    "Size-1,5": {
+      "value": "{Size-nudge}*1.5",
+      "type": "sizing"
+    },
+    "Size-2": {
+      "value": "{Size-nudge}*2",
+      "type": "sizing"
+    },
+    "Size-3": {
+      "value": "{Size-nudge}*3",
+      "type": "sizing"
+    },
+    "Size-4": {
+      "value": "{Size-nudge}*4",
+      "type": "sizing"
+    },
+    "Size-5": {
+      "value": "{Size-nudge}*5",
+      "type": "sizing"
+    },
+    "Spacing-nudge": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "Spacing-0,25": {
+      "value": "{Spacing-nudge} / 4",
+      "type": "spacing"
+    },
+    "Spacing-0,5": {
+      "value": "{Spacing-nudge}/2",
+      "type": "spacing"
+    },
+    "Spacing-1": {
+      "value": "{Spacing-nudge}*1",
+      "type": "spacing"
+    },
+    "Spacing-1,5": {
+      "value": "{Spacing-nudge} * 1.5",
+      "type": "spacing"
+    },
+    "Spacing-2": {
+      "value": "{Spacing-nudge}*2",
+      "type": "spacing"
+    },
+    "Spacing-3": {
+      "value": "{Spacing-nudge}*3",
+      "type": "spacing"
+    },
+    "Spacing-4": {
+      "value": "{Spacing-nudge}*4",
+      "type": "spacing"
+    },
+    "Spacing-5": {
+      "value": "{Spacing-nudge}*5",
+      "type": "spacing"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Global"
+    ]
+  }
+}
