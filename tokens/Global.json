@@ -1,0 +1,94 @@
+{
+  "Rounded-SM": {
+    "$type": "borderRadius",
+    "$value": "4"
+  },
+  "Rounded-MD": {
+    "$type": "borderRadius",
+    "$value": "8"
+  },
+  "Rounded-LG": {
+    "$type": "borderRadius",
+    "$value": "12"
+  },
+  "Rounded-XL": {
+    "$type": "borderRadius",
+    "$value": "16"
+  },
+  "Rounded-full": {
+    "$type": "borderRadius",
+    "$value": "999"
+  },
+  "Size-nudge": {
+    "$type": "sizing",
+    "$value": "8"
+  },
+  "Size-0,25": {
+    "$type": "sizing",
+    "$value": "{Size-nudge}/4"
+  },
+  "Size-0,5": {
+    "$type": "sizing",
+    "$value": "{Size-nudge}/2"
+  },
+  "Size-1": {
+    "$type": "sizing",
+    "$value": "{Size-nudge}*1"
+  },
+  "Size-1,5": {
+    "$type": "sizing",
+    "$value": "{Size-nudge}*1.5"
+  },
+  "Size-2": {
+    "$type": "sizing",
+    "$value": "{Size-nudge}*2"
+  },
+  "Size-3": {
+    "$type": "sizing",
+    "$value": "{Size-nudge}*3"
+  },
+  "Size-4": {
+    "$type": "sizing",
+    "$value": "{Size-nudge}*4"
+  },
+  "Size-5": {
+    "$type": "sizing",
+    "$value": "{Size-nudge}*5"
+  },
+  "Spacing-nudge": {
+    "$type": "spacing",
+    "$value": "8"
+  },
+  "Spacing-0,25": {
+    "$type": "spacing",
+    "$value": "{Spacing-nudge} / 4"
+  },
+  "Spacing-0,5": {
+    "$type": "spacing",
+    "$value": "{Spacing-nudge}/2"
+  },
+  "Spacing-1": {
+    "$type": "spacing",
+    "$value": "{Spacing-nudge}*1"
+  },
+  "Spacing-1,5": {
+    "$type": "spacing",
+    "$value": "{Spacing-nudge} * 1.5"
+  },
+  "Spacing-2": {
+    "$type": "spacing",
+    "$value": "{Spacing-nudge}*2"
+  },
+  "Spacing-3": {
+    "$type": "spacing",
+    "$value": "{Spacing-nudge}*3"
+  },
+  "Spacing-4": {
+    "$type": "spacing",
+    "$value": "{Spacing-nudge}*4"
+  },
+  "Spacing-5": {
+    "$type": "spacing",
+    "$value": "{Spacing-nudge}*5"
+  }
+}
